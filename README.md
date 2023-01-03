@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3,15,18&height=150&section=header&text=😊%20welcome%20😊%20&fontSize=80&desc=Ju%20yeon's%20github&descSize=20&descAlign=65&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3,15,18&height=150&section=header&text=welcome%20🙌%20&fontSize=80&desc=Ju%20yeon's%20github&descSize=20&descAlign=65&descAlignY=80)
 
 
 #### Hi there 👋 
