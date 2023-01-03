@@ -21,9 +21,13 @@
 <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat&logo=Spyder IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/></a>
-
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
 <!--
+https://simpleicons.org/?q=notion
+
 **juyeonyoon/juyeonyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
